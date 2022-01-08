@@ -1,13 +1,12 @@
 certifi
 click==8.0.3
-dataclasses==0.8
 flask==2.0.2
 gunicorn==20.1.0
 itsdangerous==2.0.1
 jinja2==3.0.2
 markupsafe==2.0.1
-pip==21.2.4
-python==3.9.7
+pip
+python
 sqlite==3.37.0
 werkzeug==2.0.2
 wincertstore
